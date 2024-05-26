@@ -5,4 +5,3 @@ Flask
 requests
 flask_cors
 scikit-learn
-pickle
